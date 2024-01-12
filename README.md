@@ -9,8 +9,7 @@ open frontend part ->video-subtitle-app
 ->npm start
 
 open backend part->server
-->install npm
-->npm start
+->node app.js
 
 
 
